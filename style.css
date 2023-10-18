@@ -1,8 +1,12 @@
 body{
-     background-color: gray;
-     font-size: 16px;
-     text-align: center;}
+     font-size: 16px;}
      .negrito{color: red;}
- 
+  
+.principal{background-color: gray; 
+     text-align: center;}   
+     
+     .benefícios{text-align: center;}
+
+     .imagem-benefícios{width:100%;}
 
 .imagem{width: 100%;}
