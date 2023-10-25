@@ -7,6 +7,11 @@ body{
      
      .benefícios{text-align: center;}
 
-     .imagem-benefícios{width:100%;}
+     .imagem-beneficio{width: 50%;}
 
 .imagem{width: 100%;}
+
+.titulo{padding: 20px;}
+
+.lista{display: inline-block;
+vertical-align: top;}
